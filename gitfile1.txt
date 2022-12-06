@@ -1,1 +1,2 @@
 This is our first git class
+The class is tough
