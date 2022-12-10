@@ -2,3 +2,5 @@ This is our first git class
 The class is tough
 We want to perform a merge function
 Git is great
+We are learning something new
+
